@@ -55,18 +55,11 @@ Camera Feed: OpenCV video capture
 
 Deployment: Local execution with .py and .geojson files
 
-🖼️ Screenshots
-Field Mapping	Crop Planning	Smart Irrigation
 
-(Note: Replace these image links with your actual screenshots or upload them to the repo's /assets folder and link locally.)
 
 🔧 Installation
 Clone the repository
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/Farm_ERA.git
 cd Farm_ERA
 Install dependencies
 
